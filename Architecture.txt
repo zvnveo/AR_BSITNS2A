@@ -1,0 +1,15 @@
+Architecture of Augmented Reality
+
+Augmented Reality Architecture is often divided into three major components: 
+(1)the Infrastructures Unit, 
+(2)the Processing Unit, 
+(3)and the Visual Unit. 
+
+The Infrastructure Tracker Unit was in charge of gathering data from the real world and transferring it to the Processing Unit, 
+which blended the virtual information with the real content and sent the result to the Visual Unit's Video Out module.  
+The Visual Unit can be divided into two sorts of systems based on the visualization technologies used: 
+
+(1)Video see-through: It uses a closed-view Head-Mounted Display that uses video-mixing to display the combxined images. 
+(2)Optical see-through: It makes use of a Head-Mounted Display that combines the pictures within an open-view Head-Mounted Display using optical combiners. 
+
+
